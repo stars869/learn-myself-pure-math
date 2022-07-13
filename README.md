@@ -15,11 +15,16 @@
 
 ## Linear Algebra
 
+<img src="https://i.ytimg.com/vi/lkx2BJcnyxk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLmbVDN7UGr27aqN_C4fHXw4N2ew" width="296" height="166">
+
+[[Lecture] Linear Algebra Done Right by Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+
+
 ## Abstract Algebra
 
 <img src="https://i.ytimg.com/vi/VdLhQs_y_E8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_F6ntEaeNWVBpPKWnIXGhZJ2Sug" width="296" height="166">  
 
-[Abstract Algebra by Benedict Gross](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
+[[Lecture] Abstract Algebra by Benedict Gross](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HVsgLabzL._SX404_BO1,204,203,200_.jpg" width="260" height="320">
 
