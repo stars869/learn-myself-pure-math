@@ -2,13 +2,13 @@
 
 ## Mathematical Proofs
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51RSYpVqgjL._SX402_BO1,204,203,200_.jpg" width="260" height="322">
+<img src="https://images-na.ssl-images-amazon.com/images/I/51RSYpVqgjL._SX402_BO1,204,203,200_.jpg" width="156" height="193">
 
 [Mathematical Proofs: A Transition to Advanced Mathematics by Gary Chartrand, Albert Polimeni, et al.](https://www.amazon.com/Mathematical-Proofs-Transition-Advanced-Mathematics/dp/0134746759)
 
 ## Mathematical Analysis
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/310O3IYeQ4L._SX330_BO1,204,203,200_.jpg" width="260" height="391">
+<img src="https://images-na.ssl-images-amazon.com/images/I/310O3IYeQ4L._SX330_BO1,204,203,200_.jpg" width="156" height="234">
 
 [Understanding Analysis by Stephen Abbott](https://www.amazon.com/Understanding-Analysis-Undergraduate-Texts-Mathematics/dp/1493927116)
 
@@ -26,7 +26,7 @@
 
 [[Lecture] Abstract Algebra by Benedict Gross](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/41HVsgLabzL._SX404_BO1,204,203,200_.jpg" width="260" height="320">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41HVsgLabzL._SX404_BO1,204,203,200_.jpg" width="156" height="192">
 
 [Algebra by Michael Artin](https://www.amazon.com/Algebra-Classic-Classics-Advanced-Mathematics/dp/0134689607/)
 
