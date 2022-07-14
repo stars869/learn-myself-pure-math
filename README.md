@@ -14,7 +14,7 @@
 
 <img src="https://i.ytimg.com/vi/sqEyWLGvvdw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDIwRpxEfAiKbEdEqVxKhzSKbYyxw" width="296" height="166">
 
-[[Lecture] Real Analysis](https://www.youtube.com/playlist?list=PL0E754696F72137EC) - by Francis Su
+[Lecture][Real Analysis](https://www.youtube.com/playlist?list=PL0E754696F72137EC) - by Francis Su
 
 ## Complex Analysis
 
@@ -22,21 +22,30 @@
 
 <img src="https://i.ytimg.com/vi/lkx2BJcnyxk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLmbVDN7UGr27aqN_C4fHXw4N2ew" width="296" height="166">
 
-[[Lecture] Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) - by Sheldon Axler
+[Lecture][Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) - by Sheldon Axler
 
 
 ## Abstract Algebra
 
 <img src="https://i.ytimg.com/vi/VdLhQs_y_E8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_F6ntEaeNWVBpPKWnIXGhZJ2Sug" width="296" height="166">  
 
-[[Lecture] Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - by Benedict Gross
+[Lecture][Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - by Benedict Gross
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HVsgLabzL._SX404_BO1,204,203,200_.jpg" width="156" height="192">
 
-[Algebra](https://www.amazon.com/Algebra-Classic-Classics-Advanced-Mathematics/dp/0134689607/) - by Michael Artin
+[Abstract Algebra](https://www.amazon.com/Abstract-Algebra-3rd-David-Dummit/dp/0471433349) - by David S. Dummit, Richard M. Foote
+- Don't use language of Category Theory
 
 
+<img src="https://images-na.ssl-images-amazon.com/images/I/31uvmKlzs2L._SX348_BO1,204,203,200_.jpg" width="156" height="222">
 
+[Algebra](https://www.amazon.com/Algebra-Chapter-0-Paolo-Aluffi/dp/147046571X) - by Paolo Aluffi
+- Uses language of Category Theory
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/412LuS2LQsL._SX313_BO1,204,203,200_.jpg" width="156" height="247">
+
+[Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-v/dp/0387905189) - by Thomas W. Hungerford 
+- GTM73
 
 ## General Topology
 
