@@ -13,6 +13,7 @@
 [Understanding Analysis](https://www.amazon.com/Understanding-Analysis-Undergraduate-Texts-Mathematics/dp/1493927116) - by Stephen Abbott
 
 <img src="https://i.ytimg.com/vi/sqEyWLGvvdw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDIwRpxEfAiKbEdEqVxKhzSKbYyxw" width="296" height="166">
+
 [[Lecture] Real Analysis](https://www.youtube.com/playlist?list=PL0E754696F72137EC) - by Francis Su
 
 ## Complex Analysis
