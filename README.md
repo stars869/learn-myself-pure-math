@@ -25,7 +25,7 @@
 
 [Understanding Analysis](https://www.amazon.com/Understanding-Analysis-Undergraduate-Texts-Mathematics/dp/1493927116) - by Stephen Abbott
 
-<br>
+<br><br>
 
 <img src="https://i.ytimg.com/vi/sqEyWLGvvdw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDIwRpxEfAiKbEdEqVxKhzSKbYyxw" width="296" height="166">
 
@@ -43,7 +43,7 @@
 
 [Lecture] [Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) - by Sheldon Axler
 
-<br>
+<br><br>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41myfQrwxEL._SX328_BO1,204,203,200_.jpg" width="156" height="235">
 
@@ -57,34 +57,34 @@
 
 [Lecture] [Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - by Benedict Gross
 
-<br>
+<br><br>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/31CGkhGiX-L._SX376_BO1,204,203,200_.jpg" width="156" height="205">
 
 [Algebra](https://www.amazon.ca/Algebra-Classic-Version-Michael-Artin/dp/0134689607) - by Michael Artin
 
-<br>
+<br><br>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HVsgLabzL._SX404_BO1,204,203,200_.jpg" width="156" height="192">
 
 [Abstract Algebra](https://www.amazon.com/Abstract-Algebra-3rd-David-Dummit/dp/0471433349) - by David S. Dummit, Richard M. Foote
 - Don't use language of Category Theory
 
-<br>
+<br><br>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/31uvmKlzs2L._SX348_BO1,204,203,200_.jpg" width="156" height="222">
 
 [Algebra](https://www.amazon.com/Algebra-Chapter-0-Paolo-Aluffi/dp/147046571X) - by Paolo Aluffi
 - Uses language of Category Theory
 
-<br>
+<br><br>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/31QT+wKaq3L._SX327_BO1,204,203,200_.jpg" width="156" height="207">
 
 [Algebra](https://www.amazon.ca/Algebra-Serge-Lang/dp/038795385X) - by Serge Lang
 - GTM
 
-<br>
+<br><br>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/412LuS2LQsL._SX313_BO1,204,203,200_.jpg" width="156" height="247">
 
