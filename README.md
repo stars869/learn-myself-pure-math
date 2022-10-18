@@ -1,18 +1,23 @@
 # awesome-pure-math
 
+<br>
+
 ## Mathematical Logic
 
 <img src="https://i.ytimg.com/vi/rjV4AO0iIVY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_TQ9uR5qjkHzub-aA6NRh1kCx2A" width="296" height="166">
 
-[Lecture] [Mathematical Logic](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - by Antonio Montalban
+[Lecture] [Mathematical Logic](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - by Antonio Montalban  
 [Lecture] [Mathematical Logic - Set Theory](https://www.youtube.com/watch?v=rjV4AO0iIVY&list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQ) - by Antonio Montalban
 
+---
 
 ## Mathematical Proofs
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51RSYpVqgjL._SX402_BO1,204,203,200_.jpg" width="156" height="193">
 
 [Mathematical Proofs](https://www.amazon.com/Mathematical-Proofs-Transition-Advanced-Mathematics/dp/0134746759) - A Transition to Advanced Mathematics by Gary Chartrand, Albert Polimeni, et al.
+
+---
 
 ## Real Analysis
 
@@ -26,7 +31,11 @@
 
 [Lecture] [Real Analysis](https://www.youtube.com/playlist?list=PL0E754696F72137EC) - by Francis Su
 
+---
+
 ## Complex Analysis
+
+---
 
 ## Linear Algebra
 
@@ -40,6 +49,7 @@
 
 [Linear Algebra Done Right](https://www.amazon.ca/Linear-Algebra-Right-Sheldon-Axler/dp/3319307657) - by Sheldon Axler
 
+---
 
 ## Abstract Algebra
 
@@ -81,13 +91,28 @@
 [Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-v/dp/0387905189) - by Thomas W. Hungerford 
 - GTM73
 
+---
+
 ## General Topology
+
+---
 
 ## Algebraic Topology
 
+---
+
 ## Differential Geometry
+
+---
 
 ## Algebraic Geometry
 
+---
+
 ## Functional Analysis
 
+---
+
+## Type Theory
+
+---
