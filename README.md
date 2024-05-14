@@ -1,8 +1,10 @@
-# awesome-pure-math
+# learn-myself-pure-math
 
 <br>
 
 ## Mathematical Logic
+
+<br>
 
 <img src="https://i.ytimg.com/vi/rjV4AO0iIVY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_TQ9uR5qjkHzub-aA6NRh1kCx2A" width="296" height="166">
 
@@ -13,6 +15,8 @@
 
 ## Mathematical Proofs
 
+<br>
+
 <img src="https://images-na.ssl-images-amazon.com/images/I/51RSYpVqgjL._SX402_BO1,204,203,200_.jpg" width="156" height="193">
 
 [Mathematical Proofs](https://www.amazon.com/Mathematical-Proofs-Transition-Advanced-Mathematics/dp/0134746759) - A Transition to Advanced Mathematics by Gary Chartrand, Albert Polimeni, et al.
@@ -21,11 +25,15 @@
 
 ## Mathematical Analysis
 
+<br>
+
 <img src="https://m.media-amazon.com/images/I/51SR8ufujLL._SL1100_.jpg" width="156">
 
 [Principles of Mathematical Analysis](https://www.amazon.ca/Principles-Mathematical-Analysis-Rudin/dp/1259064786) by Walter Rudin
 
 ## Real Analysis
+
+<br>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/310O3IYeQ4L._SX330_BO1,204,203,200_.jpg" width="156" height="234">
 
@@ -43,36 +51,27 @@
 
 <br>
 
-## Linear Algebra
-
-<img src="https://i.ytimg.com/vi/lkx2BJcnyxk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLmbVDN7UGr27aqN_C4fHXw4N2ew" width="296" height="166">
-
-[Lecture] [Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) - by Sheldon Axler
-
-<br><br>
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/41myfQrwxEL._SX328_BO1,204,203,200_.jpg" width="156" height="235">
-
-[Linear Algebra Done Right](https://www.amazon.ca/Linear-Algebra-Right-Sheldon-Axler/dp/3319307657) - by Sheldon Axler
-
-<br>
 
 ## Abstract Algebra
 
-<img src="https://i.ytimg.com/vi/VdLhQs_y_E8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_F6ntEaeNWVBpPKWnIXGhZJ2Sug" width="296" height="166">  
-
-[Lecture] [Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - by Benedict Gross
-
-<br><br>
+<br>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/31CGkhGiX-L._SX376_BO1,204,203,200_.jpg" width="156" height="205">
 
 [Algebra](https://www.amazon.ca/Algebra-Classic-Version-Michael-Artin/dp/0134689607) - by Michael Artin
 
+<br><br>
+
+<img src="https://i.ytimg.com/vi/VdLhQs_y_E8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_F6ntEaeNWVBpPKWnIXGhZJ2Sug" width="296" height="166">  
+
+[Lecture] [Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - by Benedict Gross
+
 
 <br>
 
 ## Topology
+
+<br>
 
 <img src="https://m.media-amazon.com/images/I/714tC2-x6lL._SL1500_.jpg" width="156">
 
@@ -90,11 +89,21 @@
 
 <br>
 
-## Differential Geometry
+<img src="https://m.media-amazon.com/images/I/61K8FJS2PaL._SL1360_.jpg" width="156">
 
-<br>
+[Algebraic Topology](https://www.amazon.ca/Algebraic-Topology-Allen-Hatcher/dp/0521795400) by Allen Hatcher
 
-## Algebraic Geometry
+<br><br>
+
+<img src="https://i.ytimg.com/vi/kCTpfqRJ2kk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgorqIsi1l60s7_0h3Qz-nBaplHg" width="296">
+
+[Lecture] [Algebraic Topology](https://www.youtube.com/watch?v=kCTpfqRJ2kk&list=PLOROtRhtegr7DmeMyFxfKxsljAVsAn_X4&pp=iAQB) by Math at Andrews University
+
+<br><br>
+
+<img src="https://i.ytimg.com/vi/XxFGokyYo6g/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCWOTMeVY9ovL_sK1dsGR4l6P6etg" width="296">
+
+[Lecture] [Algebraic Topology](https://www.youtube.com/watch?v=XxFGokyYo6g&list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b&pp=iAQB) by Pierre Albin
 
 <br>
 
@@ -102,6 +111,43 @@
 
 <br>
 
+## Category Theory
+
+<br>
+
+<img src="https://m.media-amazon.com/images/I/617x+aUz88L._SY342_.jpg" width="156">
+
+[Categories for the Working Mathematician](https://www.amazon.ca/Categories-Working-Mathematician-Saunders-Lane/dp/0387984038) by Saunders Mac Lane
+
+<br>
+<br>
+
+<img src="https://i.ytimg.com/vi/JOp7mH72Jlg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD4FM2HErcLyO4f49fRC9aiXks9KA" width="296">
+
+[Lecture] [Categories for the idle mathematician](https://www.youtube.com/watch?v=JOp7mH72Jlg&list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL) by Richard E Borcherds
+
+
+<br>
+
+
+
 ## Type Theory
 
 <br>
+
+<img src="https://m.media-amazon.com/images/I/610zzo65qgL._AC_UL320_.jpg" width="156">
+
+[Type Theory and Formal Proof: An Introduction](https://www.amazon.ca/Type-Theory-Formal-Proof-Introduction/dp/110703650X) by Rob Nederpelt and Herman Geuvers
+
+<br>
+<br>
+
+<img src="https://hottheory.files.wordpress.com/2013/03/cover-web.png?w=208&h=300" width="156">
+
+[Homotopy Type Theory:
+Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/) by The Univalent Foundations Program
+Institute for Advanced Study
+
+<br>
+
+
