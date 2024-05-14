@@ -19,6 +19,12 @@
 
 <br>
 
+## Mathematical Analysis
+
+<img src="https://m.media-amazon.com/images/I/51SR8ufujLL._SL1100_.jpg" width="156">
+
+[Principles of Mathematical Analysis](https://www.amazon.ca/Principles-Mathematical-Analysis-Rudin/dp/1259064786) by Walter Rudin
+
 ## Real Analysis
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/310O3IYeQ4L._SX330_BO1,204,203,200_.jpg" width="156" height="234">
@@ -63,37 +69,20 @@
 
 [Algebra](https://www.amazon.ca/Algebra-Classic-Version-Michael-Artin/dp/0134689607) - by Michael Artin
 
-<br><br>
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/41HVsgLabzL._SX404_BO1,204,203,200_.jpg" width="156" height="192">
-
-[Abstract Algebra](https://www.amazon.com/Abstract-Algebra-3rd-David-Dummit/dp/0471433349) - by David S. Dummit, Richard M. Foote
-- Don't use language of Category Theory
-
-<br><br>
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/31uvmKlzs2L._SX348_BO1,204,203,200_.jpg" width="156" height="222">
-
-[Algebra](https://www.amazon.com/Algebra-Chapter-0-Paolo-Aluffi/dp/147046571X) - by Paolo Aluffi
-- Uses language of Category Theory
-
-<br><br>
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/31QT+wKaq3L._SX327_BO1,204,203,200_.jpg" width="156" height="207">
-
-[Algebra](https://www.amazon.ca/Algebra-Serge-Lang/dp/038795385X) - by Serge Lang
-- GTM
-
-<br><br>
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/412LuS2LQsL._SX313_BO1,204,203,200_.jpg" width="156" height="247">
-
-[Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-v/dp/0387905189) - by Thomas W. Hungerford 
-- GTM73
 
 <br>
 
-## General Topology
+## Topology
+
+<img src="https://m.media-amazon.com/images/I/714tC2-x6lL._SL1500_.jpg" width="156">
+
+[Topology](https://www.amazon.ca/Topology-Classic-Version-James-Munkres/dp/0134689518) by James Munkres
+
+<br><br>
+
+<img src="https://i.ytimg.com/vi/xZ9Ur52fVqQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBeh7bEkjbfcCSNqwIHPCoMOe1E3g" width="296">
+
+[Lecture] [Point Set Topology](https://www.youtube.com/watch?v=xZ9Ur52fVqQ&list=PLqObMWX4M-Id2bgMBX_cVDKAVebL_pqMu) by Prof Staecker
 
 <br>
 
