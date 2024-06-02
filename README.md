@@ -8,8 +8,8 @@
 
 <img src="https://i.ytimg.com/vi/rjV4AO0iIVY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_TQ9uR5qjkHzub-aA6NRh1kCx2A" width="296" height="166">
 
-[Lecture] [Mathematical Logic](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - by Antonio Montalban  
-[Lecture] [Mathematical Logic - Set Theory](https://www.youtube.com/watch?v=rjV4AO0iIVY&list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQ) - by Antonio Montalban
+[Lecture] [Mathematical Logic](https://www.youtube.com/watch?v=rjV4AO0iIVY&list=PLjJhPCaCziSRSUtQiTA_yx5TJ76G_EqUJ) - by Antonio Montalban  
+[Lecture] [Mathematical Logic - Set Theory](https://www.youtube.com/watch?v=rjV4AO0iIVY&list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQf) - by Antonio Montalban
 
 <br>
 
